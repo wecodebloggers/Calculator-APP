@@ -1,2 +1,3 @@
 # Calculator-APP
 This is a simple and basic Calculator App for Beginners
+I have attached the XML and Java fle just copy and paste in your code and try....
